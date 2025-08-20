@@ -86,10 +86,12 @@ p {
   background-color: var(--primary-color);
   padding: 0.5em 1em;
   font-size: 1.4rem;
-  font-weight: 200;
+  font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
   border-radius: 2px;
+  text-decoration: none;
+  color: #0e0e0e;
 }
 
 /* Redirect to */
@@ -385,19 +387,19 @@ p {
 }
 
 .selected-work-img-box:nth-child(1) {
-  background-image: url("../assets/images/laptop2.jpg");
+  background-image: url("../assets/images/selected-work-img-4.jpg");
 }
 
 .selected-work-img-box:nth-child(2) {
-  background-image: url("../assets/images/phone2.jpg");
+  background-image: url("../assets/images/selected-work-img-3.jpg");
 }
 
 .selected-work-img-box:nth-child(3) {
-  background-image: url("../assets/images/phone.jpg");
+  background-image: url("../assets/images/selected-work-img-2.jpg");
 }
 
 .selected-work-img-box:nth-child(4) {
-  background-image: url("../assets/images/laptop.jpg");
+  background-image: url("../assets/images/selected-work-img-1.jpg");
 }
 
 .selected-work-img-box .overlay-text {
