@@ -395,7 +395,7 @@ p {
 }
 
 .selected-work-img-box:nth-child(3) {
-  background-image: url("../assets/images/laptop.jpg");
+  background-image: url("../assets/images/phone.jpg");
 }
 
 .selected-work-img-box:nth-child(4) {
