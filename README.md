@@ -27,3 +27,13 @@ A clean, responsive portfolio template to showcase services, selected work, proc
 ---
 
 ##  Repository Structure
+> Note: You already have `assets/images`, `css/`, and `index.html` in your repo 1.
+
+---
+
+##  Getting Started
+
+### Clone the repo:
+```bash
+git clone https://github.com/Kanakneema22/Portfolio-clone.git
+cd Portfolio-clone
