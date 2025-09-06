@@ -2,9 +2,8 @@
 
 A clean, responsive portfolio template to showcase services, selected work, process, and contact CTA. Built with semantic HTML, modern CSS, and vanilla JavaScript—easy to customize for freelancers, students, or aspiring developers.
 
-**Live Demo:** https://portfolio-clone-rho.vercel.app
-
----
+**Live Demo:** https://portfolio-clone-rho.vercel.app 
+----
 
 ##  Features
 
